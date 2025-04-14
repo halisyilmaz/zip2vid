@@ -2,16 +2,16 @@
 Converts zip files to mp4 files (encoder&amp;decoder)
 
 ## Requirements
--FFMPEG
+FFMPEG<br/>
 
 ## Features
--3 Encoding options
--- Black & White
--- 4-Color Grayscale(2-bit)
--- 16-Color RGB Scale(4-bit)
--Parallelprocessing Support for encoding and decoding
--Adjustable CRF, Block Size, FPS, Resolution, border(optional) and Max. CPU threads
--Adds SHA256 hash at the end of data during encoding and validates decoding with this hash.
+3 Encoding options<br/>
+  Black & White<br/>
+  4-Color Grayscale(2-bit)<br/>
+  16-Color RGB Scale(4-bit)<br/>
+Parallel processing and hardware acceleration support enabled for encoding and decoding<br/>
+Adjustable CRF, Block Size, FPS, Resolution, border(optional) and Max. CPU threads<br/>
+Adds SHA256 hash at the end of data during encoding and validates decoding with this hash.<br/>
 
 ## GUI
 ![Screenshot 2025-04-14 190142](https://github.com/user-attachments/assets/e9439ea5-a304-4a73-b448-8353be89d6cc)
