@@ -2,7 +2,8 @@
 Converts zip files to mp4 files (encoder&amp;decoder)
 
 ## Requirements
-- FFMPEG<br/>
+- ffmpeg<br/>
+- 
 
 ## Features
 - 3 Encoding options<br/>
