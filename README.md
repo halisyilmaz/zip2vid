@@ -4,7 +4,7 @@ Converts zip files to mp4 files (encoder&amp;decoder)
 ## Requirements
 - ffmpeg<br/>
 - python 3.12.8
-- numpy,tkinter, pillow
+- numpy, tkinter, pillow
 
 ## Features
 - 3 Encoding options<br/>
